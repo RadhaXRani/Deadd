@@ -1,3 +1,2 @@
 pyrogram
 yt-dlp
-git+https://github.com/RadhaXRani/Deadd.git#egg=flaskTgCrypto
